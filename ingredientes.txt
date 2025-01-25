@@ -6,3 +6,5 @@ azucar
 sal
 esencia de vainilla
 canela
+chocolate
+crema chantilli
